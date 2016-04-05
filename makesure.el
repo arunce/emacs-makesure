@@ -4,7 +4,7 @@
 
 ;; Author: Paulo Neves <seven@arunce.com>
 
-;; URL: https://github.com/
+;; URL: https://github.com/arunce/emacs-makesure
 ;; Version: 0.1.0
 
 ;; Keywords: window, popwin, popup, toggle; popwin; 
